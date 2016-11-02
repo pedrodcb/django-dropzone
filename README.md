@@ -6,6 +6,8 @@ Dropzone.js is a light weight JavaScript library that turns an HTML element into
 This means that a user can drag and drop a file onto it, and the file gets uploaded to the server via AJAX.
 
 ***
+Django
+-----
 Django Example is in the example directory with the tutorial, work in progress to be updated to Django 1+, originally designed for 1.5.  Will be extended using the minimal-upload(https://github.com/jeremygaul/minimal-django-file-upload-example) example.
 
 
